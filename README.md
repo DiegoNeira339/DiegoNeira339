@@ -6,7 +6,7 @@
 
 I am an student of Computer engineer at Duoc UC. Python, Javascript and HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+- I’m currently learning ...
   - JavaScript
   - React js
 -  I’m looking forward to collaborate on open source projects.<br>
